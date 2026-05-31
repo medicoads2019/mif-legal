@@ -43,7 +43,7 @@ We do not sell your personal information.
 9. Changes to This Policy: We may update this Privacy Policy from time to time. Updated versions will be posted with a revised effective date.
 
 10. Contact Us: If you have questions about this Privacy Policy, contact:
-- Email: support@myindianfestivals.com
+- Email: info@myindianfestivals.com
 - Developer/Company: My Indian Festivals
 - Country: India`;
 
@@ -83,7 +83,7 @@ These Terms and Conditions ("Terms") govern your use of the My Indian Festivals 
 13. Changes to Terms: We may revise these Terms from time to time. Continued use of the App after updates means you accept the revised Terms.
 
 14. Contact Us: For questions about these Terms, contact:
-- Email: support@myindianfestivals.com
+- Email: info@myindianfestivals.com
 - Developer/Company: My Indian Festivals
 - Country: India`;
 
